@@ -1,7 +1,7 @@
 # Capstone
-In my Capstone-Projekt for the Datascienc Bootcamp of "Neue Fische" in Autumn 2020 I did an
+In my Capstone-Projekt for the Datascience Bootcamp of "Neue Fische" in Autumn 2020 I did an
 
-            Analysis of global happiness in 2019
+                        Analysis of global happiness in 2019
 
 The question, which nation has the happiest people is examined and rated by the Global Happiness-Index.
 The scores and rankings utilize information are from the Gallup World Survey. 
