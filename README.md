@@ -2,6 +2,11 @@
 In my Capstone-Projekt for the Datascience Bootcamp of "Neue Fische" in Autumn 2020 I did an
 
             Analysis of global happiness in 2019
+            
+This analysis examines the following questions:
+1. What is important for being happy?
+2. How is happiness distributed in the world?
+3. How good is the Happiness-score predictable by its features?
 
 The question, which nation has the happiest people is examined and rated by the Global Happiness-Index.
 The scores and rankings utilize information are from the Gallup World Survey. 
@@ -16,9 +21,6 @@ and to rate their claim current lives on that scale. The factors used to explain
 - Generosity (Donations and Voluntary service)
 - Corruption Perception (Trust in Government)
 
-This analysis should give answers to the following questions:
-1. What is important for being happy?
-2. How is happiness distributed in the world?
-3. How good is the Happiness-score predictable by its features?
+Please download the analysis if you want to use the interactive plots.
 
 Have fun with it. ¶
