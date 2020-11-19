@@ -3,7 +3,7 @@ In my Capstone-Projekt for the Datascience Bootcamp of "Neue Fische" in Autumn 2
 
             Analysis of global happiness in 2019
             
-This analysis examines the following questions:
+The analysis examines the following questions:
 1. What is important for being happy?
 2. How is happiness distributed in the world?
 3. How good is the Happiness-score predictable by its features?
