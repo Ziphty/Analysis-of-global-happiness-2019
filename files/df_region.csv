@@ -1,0 +1,173 @@
+,Country,Region,ISO_code
+0,Albania,Eastern Europe,ALB
+1,Algeria,Middle East & North Africa,DZA
+2,Angola,Sub-Saharan Africa,AGO
+3,Argentina,Latin America & the Caribbean,ARG
+4,Armenia,Caucasus & Central Asia,ARM
+5,Australia,Oceania,AUS
+6,Austria,Western Europe,AUT
+7,Azerbaijan,Caucasus & Central Asia,AZE
+8,Bahamas,Latin America & the Caribbean,BHS
+9,Bahrain,Middle East & North Africa,BHR
+10,Bangladesh,South Asia,BGD
+11,Barbados,Latin America & the Caribbean,BRD
+12,Belarus,Eastern Europe,BLR
+13,Belgium,Western Europe,BEL
+14,Belize,Latin America & the Caribbean,BLZ
+15,Benin,Sub-Saharan Africa,BEN
+16,Bhutan,South Asia,BTN
+17,Bolivia,Latin America & the Caribbean,BOL
+18,Bosnia and Herzegovina,Eastern Europe,BIH
+19,Botswana,Sub-Saharan Africa,BWA
+20,Brazil,Latin America & the Caribbean,BRA
+21,Brunei Darussalam,South Asia,BRN
+22,Bulgaria,Eastern Europe,BGR
+23,Burkina Faso,Sub-Saharan Africa,BFA
+24,Burundi,Sub-Saharan Africa,BDI
+25,Cambodia,South Asia,KHM
+26,Cameroon,Sub-Saharan Africa,CMR
+27,Canada,North America,CAN
+28,Cape Verde,Sub-Saharan Africa,CPV
+29,Central African Republic,Sub-Saharan Africa,CAF
+30,Chad,Sub-Saharan Africa,TCD
+31,Chile,Latin America & the Caribbean,CHL
+32,China,East Asia,CHN
+33,Colombia,Latin America & the Caribbean,COL
+34,Costa Rica,Latin America & the Caribbean,CRI
+35,Croatia,Eastern Europe,HRV
+36,Cyprus,Eastern Europe,CYP
+37,Czech Republic,Eastern Europe,CZE
+38,Congo (Kinshasa),Sub-Saharan Africa,COD
+39,Denmark,Western Europe,DNK
+40,Dominican Republic,Latin America & the Caribbean,DOM
+41,Ecuador,Latin America & the Caribbean,ECU
+42,Egypt,Middle East & North Africa,EGY
+43,El Salvador,Latin America & the Caribbean,SLV
+44,Estonia,Eastern Europe,EST
+45,Swaziland,Sub-Saharan Africa,SWZ
+46,Ethiopia,Sub-Saharan Africa,ETH
+47,Fiji,Oceania,FJI
+48,Finland,Western Europe,FIN
+49,France,Western Europe,FRA
+50,Gabon,Sub-Saharan Africa,GAB
+51,"Gambia, The",Sub-Saharan Africa,GMB
+52,Georgia,Caucasus & Central Asia,GEO
+53,Germany,Western Europe,DEU
+54,Ghana,Sub-Saharan Africa,GHA
+55,Greece,Eastern Europe,GRC
+56,Guatemala,Latin America & the Caribbean,GTM
+57,Guinea,Sub-Saharan Africa,GIN
+58,Guinea-Bissau,Sub-Saharan Africa,GNB
+59,Guyana,Latin America & the Caribbean,GUY
+60,Haiti,Latin America & the Caribbean,HTI
+61,Honduras,Latin America & the Caribbean,HND
+62,Hong Kong,East Asia,HKG
+63,Hungary,Eastern Europe,HUN
+64,Iceland,Western Europe,ISL
+65,India,South Asia,IND
+66,Indonesia,South Asia,IDN
+67,Iran,Middle East & North Africa,IRN
+68,Iraq,Middle East & North Africa,IRQ
+69,Ireland,Western Europe,IRL
+70,Israel,Middle East & North Africa,ISR
+71,Italy,Western Europe,ITA
+72,Ivory Coast,Sub-Saharan Africa,CIV
+73,Jamaica,Latin America & the Caribbean,JAM
+74,Japan,East Asia,JPN
+75,Jordan,Middle East & North Africa,JOR
+76,Kazakhstan,Caucasus & Central Asia,KAZ
+77,Kenya,Sub-Saharan Africa,KEN
+78,Kuwait,Middle East & North Africa,KWT
+79,Kyrgyzstan,Caucasus & Central Asia,KGZ
+80,Laos,South Asia,LAO
+81,Latvia,Eastern Europe,LVA
+82,Lebanon,Middle East & North Africa,LBN
+83,Lesotho,Sub-Saharan Africa,LSO
+84,Liberia,Sub-Saharan Africa,LBR
+85,Libya,Middle East & North Africa,LBY
+86,Lithuania,Eastern Europe,LTU
+87,Luxembourg,Western Europe,LUX
+88,Madagascar,Sub-Saharan Africa,MDG
+89,Malawi,Sub-Saharan Africa,MWI
+90,Malaysia,South Asia,MYS
+91,Mali,Sub-Saharan Africa,MLI
+92,Malta,Western Europe,MLT
+93,Mauritania,Sub-Saharan Africa,MRT
+94,Mauritius,Sub-Saharan Africa,MUS
+95,Mexico,Latin America & the Caribbean,MEX
+96,Moldova,Eastern Europe,MDA
+97,Mongolia,East Asia,MNG
+98,Montenegro,Eastern Europe,MNE
+99,Morocco,Middle East & North Africa,MAR
+100,Mozambique,Sub-Saharan Africa,MOZ
+101,Myanmar,South Asia,MMR
+102,Namibia,Sub-Saharan Africa,NAM
+103,Nepal,South Asia,NPL
+104,Netherlands,Western Europe,NLD
+105,New Zealand,Oceania,NZL
+106,Nicaragua,Latin America & the Caribbean,NIC
+107,Niger,Sub-Saharan Africa,NER
+108,Nigeria,Sub-Saharan Africa,NGA
+109,North Macedonia,Eastern Europe,MKD
+110,Norway,Western Europe,NOR
+111,Oman,Middle East & North Africa,OMN
+112,Pakistan,South Asia,PAK
+113,Panama,Latin America & the Caribbean,PAN
+114,Pap. New Guinea,Oceania,PNG
+115,Paraguay,Latin America & the Caribbean,PRY
+116,Peru,Latin America & the Caribbean,PER
+117,Philippines,South Asia,PHL
+118,Poland,Eastern Europe,POL
+119,Portugal,Western Europe,PRT
+120,Qatar,Middle East & North Africa,QAT
+121,Congo (Brazzaville),Sub-Saharan Africa,COG
+122,Romania,Eastern Europe,ROU
+123,Russia,Eastern Europe,RUS
+124,Rwanda,Sub-Saharan Africa,RWA
+125,Saudi Arabia,Middle East & North Africa,SAU
+126,Senegal,Sub-Saharan Africa,SEN
+127,Serbia,Eastern Europe,SRB
+128,Seychelles,Sub-Saharan Africa,SYC
+129,Sierra Leone,Sub-Saharan Africa,SLE
+130,Singapore,South Asia,SGP
+131,Slovakia,Eastern Europe,SVK
+132,Slovenia,Eastern Europe,SVN
+133,South Africa,Sub-Saharan Africa,ZAF
+134,South Korea,East Asia,KOR
+135,Spain,Western Europe,ESP
+136,Sri Lanka,South Asia,LKA
+137,Sudan,Sub-Saharan Africa,SDN
+138,Suriname,Latin America & the Caribbean,SUR
+139,Sweden,Western Europe,SWE
+140,Switzerland,Western Europe,CHE
+141,Syria,Middle East & North Africa,SYR
+142,Taiwan,East Asia,TWN
+143,Tajikistan,Caucasus & Central Asia,TJK
+144,Tanzania,Sub-Saharan Africa,TZA
+145,Thailand,South Asia,THA
+146,Timor-Leste,South Asia,TLS
+147,Togo,Sub-Saharan Africa,TGO
+148,Trinidad & Tobago,Latin America & the Caribbean,TTO
+149,Tunisia,Middle East & North Africa,TUN
+150,Turkey,Middle East & North Africa,TUR
+151,Uganda,Sub-Saharan Africa,UGA
+152,Ukraine,Eastern Europe,UKR
+153,United Arab Emirates,Middle East & North Africa,ARE
+154,United Kingdom,Western Europe,GBR
+155,United States,North America,USA
+156,Uruguay,Latin America & the Caribbean,URY
+157,Venezuela,Latin America & the Caribbean,VEN
+158,Vietnam,South Asia,VNM
+159,Yemen,Middle East & North Africa,YEM
+160,Zambia,Sub-Saharan Africa,ZMB
+161,Zimbabwe,Sub-Saharan Africa,ZWE
+162,Uzbekistan,Caucasus & Central Asia,UZB
+163,Turkmenistan,Caucasus & Central Asia,TKM
+164,Northern Cyprus,Eastern Europe,CYP
+165,Kosovo,Eastern Europe,XXK
+166,Somalia,Sub-Saharan Africa,SOM
+167,Palestinian Territories,Middle East & North Africa,PSE
+168,Afghanistan,South Asia,AFG
+169,South Sudan,Sub-Saharan Africa,SSD
+170,Gambia,Sub-Saharan Africa,GMB
+171,Comoros,Sub-Saharan Africa,COM
