@@ -9,7 +9,7 @@ The analysis examines the following questions:
 3. How well is the Happiness-score predictable by its features?
 
 The question, which nation has the happiest people is examined and rated by the World Happiness Index since 2012. 
-The life evaluations from the Gallup World Poll provide the basis for the annual happiness rankings
+The life evaluations from the Gallup World Poll provide the basis for the annual happiness rankings.
 The scores and rankings are based on answers to the most life evaluation address, known as the Cantril-Ladder, 
 The factors used to explain the score are
 
