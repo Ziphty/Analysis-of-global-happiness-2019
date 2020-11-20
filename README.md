@@ -6,13 +6,12 @@ In my Capstone-Projekt for the Datascience Bootcamp of "Neue Fische" in Autumn 2
 The analysis examines the following questions:
 1. What is important for being happy?
 2. How is happiness distributed in the world?
-3. How good is the Happiness-score predictable by its features?
+3. How well is the Happiness-score predictable by its features?
 
-The question, which nation has the happiest people is examined and rated by the Global Happiness-Index.
-The scores and rankings utilize information are from the Gallup World Survey. 
-They are based on answers to the most life evaluation address, known as the Cantril-Ladder, 
-asks respondents to think of a step with the most excellent conceivable life for them being a 10 
-and to rate their claim current lives on that scale. The factors used to explain the score are
+The question, which nation has the happiest people is examined and rated by the World Happiness Index since 2012. 
+The life evaluations from the Gallup World Poll provide the basis for the annual happiness rankings
+The scores and rankings are based on answers to the most life evaluation address, known as the Cantril-Ladder, 
+The factors used to explain the score are
 
 - GDP per capita
 - Healthy Life Expectancy
